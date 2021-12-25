@@ -1,8 +1,12 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    psych (4.0.3)
+      stringio
     rake (10.1.0)
-    rdoc (4.1.0)
+    rdoc (6.4.0)
+      psych (>= 4.0.0)
+    stringio (3.0.1)
 
 PLATFORMS
   ruby
